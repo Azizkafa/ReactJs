@@ -1,0 +1,37 @@
+{
+  "todos": [
+    "Memasak",
+    "Mencuci",
+    "Olahraga",
+    {
+      "id": "aefa"
+    },
+    {
+      "id": "56ec"
+    },
+    {
+      "id": "a269"
+    },
+    {
+      "id": "5266"
+    },
+    {
+      "id": "14ec"
+    },
+    {
+      "id": "8053"
+    },
+    {
+      "id": "6e67",
+      "text": "wwww"
+    },
+    {
+      "id": "f08c",
+      "text": "haloo"
+    },
+    {
+      "id": "5858",
+      "text": "saya Aziz"
+    }
+  ]
+}
