@@ -30,6 +30,7 @@ export default class TodoForm extends Component {
       if (!response.ok) throw new Error("Failed to add todo");
 
       const createdTodo = await response.json();
+      
       this.props.onAdd(createdTodo);
       this.setState({ text: "" });
     } catch (error) {
